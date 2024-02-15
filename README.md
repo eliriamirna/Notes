@@ -29,17 +29,16 @@ $ npm run dev
 
 ## 📺 Exemplos e Demonstração
 
+Por meio da interface, é possível realizar as seguintes ações:
+
+- Criar uma nota de texto digitando pelo teclado.
+- Criar uma nota de texto utilizando áudio captado pelo navegador.
+- Buscar notas criadas por texto.
+- Apagar notas de texto previamente criadas.
+- Identificar a data de criação de uma nota.
+
 <p align="center">
   <img alt="Preview do projeto" src=".github/preview.jpg" width="100%">
-</p>
-
-<p>
-    Por meio da interface, é possível realizar as seguintes ações:
-    - Criar uma nota de texto digitando pelo teclado.
-    - Criar uma nota de texto utilizando áudio captado pelo navegador.
-    - Buscar notas criadas por texto.
-    - Apagar notas de texto previamente criadas.
-    - Identificar a data de criação de uma nota.
 </p>
 
 ## 🚀 Tecnologias
